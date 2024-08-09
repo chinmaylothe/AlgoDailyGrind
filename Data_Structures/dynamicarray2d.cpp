@@ -1,6 +1,6 @@
 // C++ program to rotate a matrix
 // by 90 degrees
-
+//rotate image
 #include<bits/stdc++.h>
 using namespace std;
 
