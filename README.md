@@ -9,4 +9,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [1894-merge-strings-alternately](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
