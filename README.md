@@ -15,9 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/0605-can-place-flowers) |
+## Math
+|  |
+| ------- |
+| [1146-greatest-common-divisor-of-strings](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/1146-greatest-common-divisor-of-strings) |
 <!---LeetCode Topics End-->
