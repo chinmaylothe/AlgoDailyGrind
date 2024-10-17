@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0334-increasing-triplet-subsequence](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/chinmaylothe/AlgoDailyGrind/tree/master/0605-can-place-flowers) |
 ## Math
 |  |
